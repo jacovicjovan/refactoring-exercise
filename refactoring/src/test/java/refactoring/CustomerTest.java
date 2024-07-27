@@ -2,8 +2,11 @@ package refactoring;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import org.junit.jupiter.api.Test;
+
 public class CustomerTest {
 
+	@Test
 	public void testStatement() {
 		Movie movie1 = new Movie("Regular film", 0);
 		Movie movie2 = new Movie("New Releae film", 1);

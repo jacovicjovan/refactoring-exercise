@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="refactoring.CustomerTest" time="0.023" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="refactoring.CustomerTest" time="0.024" errors="0" skipped="0">
   <properties>
     <property name="jansi.mode" value="force"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.4.1+1"/>
     <property name="sun.boot.library.path" value="C:\Users\jovan.jacovic\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220903-1038\jre\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\jovan.jacovic\eclipse-workspace\refactoring"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\jovan.jacovic\refactoring-workspace\refactoring-exercise\refactoring"/>
     <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="java.vendor.url" value="https://adoptium.net/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\jovan.jacovic\eclipse-workspace\refactoring"/>
+    <property name="user.dir" value="C:\Users\jovan.jacovic\refactoring-workspace\refactoring-exercise\refactoring"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="17.0.4.1+1"/>
     <property name="os.arch" value="amd64"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\jovan.jacovic\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6430350396040417158.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\jovan.jacovic\refactoring-workspace\refactoring-exercise\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4533913254142921360.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Users\jovan.jacovic\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220903-1038\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/jovan.jacovic/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220903-1038/jre/bin/server;C:/Users/jovan.jacovic/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220903-1038/jre/bin;C:\oracle\WINDOWS.X64_193000_db_home\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Amazon Corretto\jdk11.0.15_9\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\ibm\gsk8\lib64;C:\Program Files (x86)\ibm\gsk8\lib;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\PROGRA~2\IBM\WEBSPH~1\APPSER~1\db2\BIN;C:\PROGRA~2\IBM\WEBSPH~1\APPSER~1\db2\FUNCTION;C:\PROGRA~2\IBM\WEBSPH~1\APPSER~1\db2\SAMPLES\REPL;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\jovan.jacovic\AppData\Local\Microsoft\WindowsApps;C:\Gradle\gradle-7.5.1\bin;C:\Users\jovan.jacovic\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jovan.jacovic\AppData\Roaming\npm;C:\Program Files\nodejs;;C:\Users\jovan.jacovic\Desktop;;."/>
     <property name="jdk.debug" value="release"/>
@@ -50,7 +50,7 @@
     <property name="java.version" value="17.0.4.1"/>
     <property name="native.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Eclipse Adoptium"/>
-    <property name="maven.home" value="C:\Users\jovan.jacovic\eclipse-workspace\refactoring\EMBEDDED"/>
+    <property name="maven.home" value="C:\Users\jovan.jacovic\refactoring-workspace\refactoring-exercise\refactoring\EMBEDDED"/>
     <property name="style.color" value="always"/>
     <property name="file.separator" value="\"/>
     <property name="java.version.date" value="2022-08-12"/>
@@ -60,5 +60,5 @@
     <property name="java.vendor.version" value="Temurin-17.0.4.1+1"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="refactoring.CustomerTest" name="refactoring.CustomerTest.testStatement" time="0.023"/>
+  <testcase classname="refactoring.CustomerTest" name="refactoring.CustomerTest.testStatement" time="0.024"/>
 </testsuite>
